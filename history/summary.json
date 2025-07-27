@@ -4,19 +4,19 @@
     "url": "https://arparec.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/arparec.xyz.ico",
     "slug": "website",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 127,
-    "timeDay": 100,
-    "timeWeek": 131,
-    "timeMonth": 127,
-    "timeYear": 127,
+    "status": "up",
+    "uptime": "98.20%",
+    "uptimeDay": "82.41%",
+    "uptimeWeek": "97.49%",
+    "uptimeMonth": "98.20%",
+    "uptimeYear": "98.20%",
+    "time": 2087,
+    "timeDay": 11879,
+    "timeWeek": 3072,
+    "timeMonth": 2087,
+    "timeYear": 2087,
     "dailyMinutesDown": {
-      "2025-07-27": 0
+      "2025-07-27": 253
     }
   },
   {
@@ -54,7 +54,7 @@
     "timeMonth": 1268,
     "timeYear": 1268,
     "dailyMinutesDown": {
-      "2025-07-27": 596,
+      "2025-07-27": 850,
       "2025-07-26": 1440,
       "2025-07-25": 1440,
       "2025-07-24": 1440,
@@ -138,7 +138,7 @@
     "timeMonth": 147,
     "timeYear": 147,
     "dailyMinutesDown": {
-      "2025-07-27": 596,
+      "2025-07-27": 850,
       "2025-07-26": 1440,
       "2025-07-25": 1440,
       "2025-07-24": 1440,
