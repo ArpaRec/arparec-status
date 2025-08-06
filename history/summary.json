@@ -24,19 +24,19 @@
     "url": "https://datarouter.ol.arparec.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/datarouter.ol.arparec.xyz.ico",
     "slug": "datarouter",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 264,
-    "timeDay": 267,
-    "timeWeek": 247,
-    "timeMonth": 264,
-    "timeYear": 264,
+    "status": "up",
+    "uptime": "99.24%",
+    "uptimeDay": "84.89%",
+    "uptimeWeek": "97.84%",
+    "uptimeMonth": "99.24%",
+    "uptimeYear": "99.24%",
+    "time": 275,
+    "timeDay": 386,
+    "timeWeek": 279,
+    "timeMonth": 275,
+    "timeYear": 275,
     "dailyMinutesDown": {
-      "2025-08-06": 2
+      "2025-08-06": 218
     }
   },
   {
@@ -56,7 +56,7 @@
     "timeMonth": 1396,
     "timeYear": 1396,
     "dailyMinutesDown": {
-      "2025-08-06": 834,
+      "2025-08-06": 1051,
       "2025-08-05": 1440,
       "2025-08-04": 1440,
       "2025-08-03": 1440,
@@ -102,19 +102,19 @@
     "url": "https://freya-public-service-prod03.ol.arparec.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/freya-public-service-prod03.ol.arparec.xyz.ico",
     "slug": "freya",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 235,
-    "timeDay": 221,
-    "timeWeek": 260,
-    "timeMonth": 235,
-    "timeYear": 235,
+    "status": "up",
+    "uptime": "99.24%",
+    "uptimeDay": "84.95%",
+    "uptimeWeek": "97.85%",
+    "uptimeMonth": "99.24%",
+    "uptimeYear": "99.24%",
+    "time": 249,
+    "timeDay": 382,
+    "timeWeek": 295,
+    "timeMonth": 249,
+    "timeYear": 249,
     "dailyMinutesDown": {
-      "2025-08-06": 1
+      "2025-08-06": 217
     }
   },
   {
@@ -122,19 +122,19 @@
     "url": "https://seluna-public-service-prod02.ol.arparec.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/seluna-public-service-prod02.ol.arparec.xyz.ico",
     "slug": "seluna",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 244,
-    "timeDay": 129,
-    "timeWeek": 243,
-    "timeMonth": 244,
-    "timeYear": 244,
+    "status": "up",
+    "uptime": "99.25%",
+    "uptimeDay": "84.98%",
+    "uptimeWeek": "97.85%",
+    "uptimeMonth": "99.25%",
+    "uptimeYear": "99.25%",
+    "time": 253,
+    "timeDay": 286,
+    "timeWeek": 268,
+    "timeMonth": 253,
+    "timeYear": 253,
     "dailyMinutesDown": {
-      "2025-08-06": 0
+      "2025-08-06": 216
     }
   },
   {
@@ -154,7 +154,7 @@
     "timeMonth": 164,
     "timeYear": 164,
     "dailyMinutesDown": {
-      "2025-08-06": 834,
+      "2025-08-06": 1051,
       "2025-08-05": 1440,
       "2025-08-04": 1440,
       "2025-08-03": 1440,
