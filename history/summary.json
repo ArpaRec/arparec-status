@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/arparec.xyz.ico",
     "slug": "website",
     "status": "up",
-    "uptime": "99.05%",
+    "uptime": "99.08%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.05%",
-    "uptimeYear": "99.05%",
+    "uptimeMonth": "99.08%",
+    "uptimeYear": "99.08%",
     "time": 1115,
     "timeDay": 91,
     "timeWeek": 149,
@@ -24,18 +24,20 @@
     "url": "https://datarouter.ol.arparec.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/datarouter.ol.arparec.xyz.ico",
     "slug": "datarouter",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 264,
     "timeDay": 267,
     "timeWeek": 247,
     "timeMonth": 264,
     "timeYear": 264,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-06": 2
+    }
   },
   {
     "name": "CDN1",
@@ -54,7 +56,7 @@
     "timeMonth": 1396,
     "timeYear": 1396,
     "dailyMinutesDown": {
-      "2025-08-06": 66,
+      "2025-08-06": 834,
       "2025-08-05": 1440,
       "2025-08-04": 1440,
       "2025-08-03": 1440,
@@ -100,10 +102,10 @@
     "url": "https://freya-public-service-prod03.ol.arparec.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/freya-public-service-prod03.ol.arparec.xyz.ico",
     "slug": "freya",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 235,
@@ -111,14 +113,16 @@
     "timeWeek": 260,
     "timeMonth": 235,
     "timeYear": 235,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-06": 1
+    }
   },
   {
     "name": "Seluna",
     "url": "https://seluna-public-service-prod02.ol.arparec.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/seluna-public-service-prod02.ol.arparec.xyz.ico",
     "slug": "seluna",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -129,7 +133,9 @@
     "timeWeek": 243,
     "timeMonth": 244,
     "timeYear": 244,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-06": 0
+    }
   },
   {
     "name": "Pilgrim",
@@ -148,7 +154,7 @@
     "timeMonth": 164,
     "timeYear": 164,
     "dailyMinutesDown": {
-      "2025-08-06": 66,
+      "2025-08-06": 834,
       "2025-08-05": 1440,
       "2025-08-04": 1440,
       "2025-08-03": 1440,
