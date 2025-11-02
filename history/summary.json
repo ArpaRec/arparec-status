@@ -24,9 +24,9 @@
     "url": "https://datarouter.ol.arparec.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/datarouter.ol.arparec.xyz.ico",
     "slug": "datarouter",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.76%",
@@ -36,6 +36,7 @@
     "timeMonth": 554,
     "timeYear": 366,
     "dailyMinutesDown": {
+      "2025-11-02": 0,
       "2025-10-13": 29,
       "2025-10-04": 19,
       "2025-09-20": 7,
@@ -64,7 +65,7 @@
     "timeMonth": 606,
     "timeYear": 794,
     "dailyMinutesDown": {
-      "2025-11-02": 62,
+      "2025-11-02": 1240,
       "2025-11-01": 1440,
       "2025-10-31": 1440,
       "2025-10-30": 1440,
@@ -264,7 +265,7 @@
     "timeMonth": 173,
     "timeYear": 180,
     "dailyMinutesDown": {
-      "2025-11-02": 63,
+      "2025-11-02": 1240,
       "2025-11-01": 1440,
       "2025-10-31": 1440,
       "2025-10-30": 1440,
