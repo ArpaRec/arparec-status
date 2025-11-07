@@ -1,7 +1,7 @@
 url: https://datarouter.ol.arparec.xyz
-status: up
-code: 200
-responseTime: 350
-lastUpdated: 2025-11-06T23:15:39.470Z
+status: down
+code: 502
+responseTime: 143
+lastUpdated: 2025-11-07T20:16:32.570Z
 startTime: 2025-07-17T19:31:18.359Z
 generator: Upptime <https://github.com/upptime/upptime>
