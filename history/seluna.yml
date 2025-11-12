@@ -1,7 +1,7 @@
 url: https://seluna-public-service-prod02.ol.arparec.xyz
-status: up
-code: 200
-responseTime: 189
-lastUpdated: 2025-11-11T23:15:27.061Z
+status: down
+code: 429
+responseTime: 124
+lastUpdated: 2025-11-12T14:00:16.505Z
 startTime: 2025-07-17T19:31:25.029Z
 generator: Upptime <https://github.com/upptime/upptime>
